@@ -19,7 +19,7 @@ class tidalmaq:
             storage coefficient of aquifer below the land
         csea : array of length N
             resistance of leaky layer below the sea
-        cland : float
+        cland : array of length N
             resistance of leaky layer below the sea
         sigsea : array of length N
             storage coefficient of leaky layer below the sea
